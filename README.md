@@ -7,7 +7,7 @@ First follow the instructions for [installing E2VID](https://github.com/uzh-rpg/
 - Download the E2PRIV pretrained model:
 
 ```bash
-https://www.dropbox.com/scl/fi/510i4uci41t7ajy8uxhsw/checkpoint_bbox_FULL_epoch_3.pt?rlkey=81zglssue5g14gtyj9p64crpu&st=423x4b6p&dl=0
+https://www.dropbox.com/scl/fi/sb5ddg2rfbxjiea91dex4/e2priv_pretrained_weights.pt?rlkey=588foykyo9r4qwvvmjhxpk202&st=fmvjngvh&dl=0
 ```
 
 - Download an example file with event data:
