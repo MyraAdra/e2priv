@@ -1,9 +1,8 @@
 # E2PRIV
 
-Use the ame instructions to install 
-## Run
-
 First follow the instructions for [installing E2VID](https://github.com/uzh-rpg/rpg_e2vid).
+
+## Run
 
 - Download the pretrained model:
 
