@@ -28,6 +28,10 @@ python run_reconstruction.py \
 ```
 
 
-## Re-training E2VID for Anonymization
+## Fine-tuning E2VID for Anonymization
 
 - Run the Training_e2priv notebook
+
+## Evaluation
+
+Code for evaluating Face detection and Verification coming soon!
