@@ -1,6 +1,6 @@
 # E2PRIV
 
-## Download E2PRIV model
+## E2PRIV pretrained model
 
 - Dropbox link:
 
