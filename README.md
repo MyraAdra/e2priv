@@ -1,3 +1,9 @@
 # E2PRIV
 
-Code will be available after our paper is presented at IWBF on April 24-25, 2025. Stay tuned!
+## Download E2PRIV model
+
+- Dropbox link:
+
+```bash
+[https://www.dropbox.com/scl/fi/510i4uci41t7ajy8uxhsw/checkpoint_bbox_FULL_epoch_3.pt?rlkey=81zglssue5g14gtyj9p64crpu&st=423x4b6p&dl=0]
+```
