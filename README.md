@@ -25,3 +25,8 @@ python run_reconstruction.py \
   --auto_hdr \
   --display \
   --show_events
+
+
+## Re-training E2VID for Anonymization
+
+- Run the Training_e2priv notebook
